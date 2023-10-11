@@ -1,0 +1,12 @@
+<Context>
+
+	<Resource 	name="jdbc/MysqlDB"
+				auth="Container"
+				type="javax.sql.DataSource"
+				driverClassName="com.mysql.cj.jdbc.Driver"
+				url="jdbc:mysql://byeonguk.ipdisk.co.kr:3306/MFF?serverTimezone=UTC"
+				username="seo"
+				password="alrkdpf1"
+				/>
+				
+</Context>
